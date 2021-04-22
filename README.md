@@ -7,7 +7,9 @@ the University of Michigan
 
 Documenting my first foray into learning Python 3 
 
+
 References:
+
 [Python for Everybody course](https://www.py4e.com)
 
 [Python for Everybody Book](https://github.com/csev/py4e/tree/master/book3)
