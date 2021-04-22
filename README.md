@@ -1,5 +1,5 @@
 Python for Everybody exercises
-===============================
+===============================================================================
 
 Worked exercises and assignments from the 
 [Python for Everybody course](https://www.py4e.com) from Chuck Severance and 
@@ -9,7 +9,7 @@ Documenting my first foray into learning Python 3
 
 
 References:
-
+-------------------------------------------------------------------------------
 [Python for Everybody course](https://www.py4e.com)
 
 [Python for Everybody Book](https://github.com/csev/py4e/tree/master/book3)
