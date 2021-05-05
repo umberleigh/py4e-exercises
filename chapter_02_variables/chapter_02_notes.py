@@ -1,6 +1,8 @@
 # Examples of how to use variables, expressions and statements
 ###############################################################################
 
+# https://www.py4e.com/html3/02-variables
+
 # Values and types
 # -----------------------------------------------------------------------------
 
